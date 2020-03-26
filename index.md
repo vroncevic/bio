@@ -1,6 +1,7 @@
 ### Projects
 
-[https://github.com/vroncevic/ats_utilities](https://github.com/vroncevic/ats_utilities)
+ats_utilities [Docs](https://ats-utilities.readthedocs.io/en/latest/) [github](https://github.com/vroncevic/ats_utilities)
+
 [https://github.com/vroncevic/sh_util](https://github.com/vroncevic/sh_util)
 [https://vroncevic.github.io/gen_avr8](https://vroncevic.github.io/gen_avr8)
 [https://github.com/vroncevic/gen_stm32](https://github.com/vroncevic/gen_stm32)
