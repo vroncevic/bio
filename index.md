@@ -13,9 +13,11 @@ Software/Embedded Engineer
 * skype id: `vroncevic`
 
 
+
 ## Profile
 
-Digging New Technologies | Research New Concepts | Open Source Projects
+Digging New Technologies, Research New Concepts, Open Source Projects
+
 
 
 ## Experience
@@ -23,6 +25,7 @@ Digging New Technologies | Research New Concepts | Open Source Projects
 10 years of development in software and embedded systems.
 
 From small to big scale projects.
+
 
 
 ## Education
@@ -47,13 +50,34 @@ Faculty of Technical Sciences, University of Novi Sad, Serbia
 * Research: Network frameworks and technologies, algorithm complexity
 
 
+
 ## Skills
+
+* Development of Embedded Systems
+
+* Development of Web & Software Systems
+
+* Linux & Network Administration
+
+* CNC & 3DPrint
 
 
 ## Interests
 
+* Robotics
+
+* Industrial Automation
+
+* Machine Learning
+
+* Network & Communication Protocols
+
+
 
 ## Projects
+
+<details>
+  <summary>List of projects</summary>
 
 * ats_utilities [Docs](https://ats-utilities.readthedocs.io/en/latest) [GitHub](https://github.com/vroncevic/ats_utilities)
 
@@ -276,3 +300,6 @@ Faculty of Technical Sciences, University of Novi Sad, Serbia
 * tab-size-on-github [Docs](https://tab-size-on-github.readthedocs.io/en/latest) [GitHub]()
 
 * goto-definition-gedit3 [Docs](https://goto-definition-gedit3.readthedocs.io/en/latest) [GitHub]()
+
+</details>
+
