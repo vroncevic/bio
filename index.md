@@ -58,7 +58,7 @@ Faculty of Technical Sciences, University of Novi Sad, Serbia
 
 * Linux & Network Administration
 
-* CNC & 3DPrint
+* CNC Router & 3DPrint
 
 <br />
 
