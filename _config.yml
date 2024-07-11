@@ -1,5 +1,10 @@
 theme: jekyll-theme-hacker
+markdown: kramdown
+safe: true
+kramdown:
+  parse_block_html: true
 title: Vladimir Roncevic
 description: Biography
 author: vroncevic 
 url: "https://vroncevic.github.io" 
+
